@@ -1,0 +1,8 @@
+name 'Fractal Plant'
+axiom X
+rule X → F+[[X]-X]-F[-FX]+X
+rule F → FF
+line-length 5
+initial-angle -30
+left-angle 25
+right-angle -25.0

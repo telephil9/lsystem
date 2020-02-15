@@ -1,0 +1,7 @@
+name 'Koch Curve'
+axiom F
+rule F → F+F-F-F+F
+line-length 10
+initial-angle 0
+left-angle 90
+right-angle -90
